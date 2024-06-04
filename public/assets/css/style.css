@@ -1,0 +1,29 @@
+body {
+    background: #000;
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+
+input {
+    width: 400px;
+    border: 2px solid #ffffff;
+    box-shadow: 0 2px 8px #9c9c9c;
+    border-radius: 8px;
+}
+
+button {
+    border: 1px solid #ffc400;
+    border-radius: 8px;
+    width: 100px 200px;
+    text-align: center;
+    background-color: rgb(250, 213, 7);
+    padding: 5px 10px;
+    margin: auto;
+    box-shadow: 0 2px 8px #ff9100;
+    font-weight: bold;
+}
+
+button:hover {
+    box-shadow: 0 8px 16px rgb(255, 0, 0);
+    cursor: pointer;
+}
